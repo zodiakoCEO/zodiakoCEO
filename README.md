@@ -48,15 +48,19 @@ o envíame un <a href="mailto:st1001446920@gmail.com"><b>correo</b></a>
 <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" />
 </a>
+
 <a href="https://www.instagram.com/TU_INSTAGRAM" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="42" />
 </a>
+
 <a href="https://www.facebook.com/TU_FACEBOOK" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="42" />
+  <img alt="image" src="https://github.com/user-attachments/assets/b704f03d-8366-4dd1-94ce-cc67cffdc033" width="42" />
 </a>
+
 <a href="https://open.spotify.com/user/TU_SPOTIFY" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" width="42" />
+ <img width="42" alt="image" src="https://github.com/user-attachments/assets/0a56ab60-6692-42c1-9736-ad922fe6e7b8" />
 </a>
+
 <a href="https://dev.to/TU_DEVTO" target="_blank">
   <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="42" />
 </a>
