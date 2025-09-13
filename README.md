@@ -69,7 +69,7 @@ o envíame un <a href="mailto:st1001446920@gmail.com"><b>correo</b></a>
 
 <!-- Contador de visitas: usar ghpvc (komarev) -->
 <div align="center" style="margin-top:8px">
-  <img src="https://komarev.com/ghpvc/?username=TU_USER&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zodiakoCEO&label=Visitas&color=3B82F6&style=for-the-badge" alt="profile views" />
 </div>
 
 
