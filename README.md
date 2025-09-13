@@ -10,11 +10,13 @@ Siéntete libre de clonar mis proyectos, crear *issues* y enviar *PRs* si crees 
 ¿Preguntas? Abre un *issue* <a href="https://github.com/zodiakoCEO/zodiakoCEO/issues/new"><b>aquí</b></a><br>
 o envíame un <a href="mailto:st1001446920@gmail.com"><b>correo</b></a>  
 
-<i>¡Happy Coding! 🚀</i>  
+<i>¡Happy Coding! </i>  
 
 </div>
 
----
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+</div>
 
 <div align="center">
 
@@ -22,7 +24,9 @@ o envíame un <a href="mailto:st1001446920@gmail.com"><b>correo</b></a>
 
 </div>
 
----
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+</div>
 
 <div align="center">
 
@@ -36,15 +40,14 @@ o envíame un <a href="mailto:st1001446920@gmail.com"><b>correo</b></a>
 
 </div>
 
----
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+</div>
 
-[![HitCount](http://hits.dwyl.com/zodiakoCEO/zodiakoCEO.svg)](http://hits.dwyl.com/zodiakoCEO/zodiakoCEO)
-
-## 🌐 Sígueme en la web
+## Mis redes
 
 <div align="center">
 
-<!-- Iconos redondos todos con skillicons (uniformes) -->
 <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" />
 </a>
@@ -54,11 +57,11 @@ o envíame un <a href="mailto:st1001446920@gmail.com"><b>correo</b></a>
 </a>
 
 <a href="https://www.facebook.com/TU_FACEBOOK" target="_blank">
-  <img alt="image" src="https://github.com/user-attachments/assets/b704f03d-8366-4dd1-94ce-cc67cffdc033" width="42" />
+  <img alt="Facebook" src="https://github.com/user-attachments/assets/b704f03d-8366-4dd1-94ce-cc67cffdc033" width="42" />
 </a>
 
 <a href="https://open.spotify.com/user/TU_SPOTIFY" target="_blank">
- <img width="42" alt="image" src="https://github.com/user-attachments/assets/0a56ab60-6692-42c1-9736-ad922fe6e7b8" />
+ <img width="42" alt="Spotify" src="https://github.com/user-attachments/assets/0a56ab60-6692-42c1-9736-ad922fe6e7b8" />
 </a>
 
 <a href="https://dev.to/TU_DEVTO" target="_blank">
@@ -67,21 +70,14 @@ o envíame un <a href="mailto:st1001446920@gmail.com"><b>correo</b></a>
 
 </div>
 
-<!-- Contador de visitas: usar ghpvc (komarev) -->
-<div align="center" style="margin-top:8px">
-  <img src="https://komarev.com/ghpvc/?username=zodiakoCEO&label=Visitas&color=3B82F6&style=for-the-badge" alt="profile views" />
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 </div>
 
-
-
----
-
-## 🚀 Tecnologías que uso
+## tecnologías que uso
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,react,html,css,arduino,mysql,vscode" />
 
 </div>
-
----
